@@ -50,7 +50,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-red-900">
       <Nav />
-      <div className="flex-1 flex flex-col items-center px-4 pt-8">
+      <div className="flex-1 flex flex-col items-center px-4 pt-12">
         <h1
           className={`${molle.className} mt-8 text-5xl text-gray-50 mb-8 text-stroke`}
         >
