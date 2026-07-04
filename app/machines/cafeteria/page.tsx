@@ -64,7 +64,7 @@ export default function Home() {
             Give us your Input!
           </h2>
           <p
-            className={`${ooohBaby.className} text-gray-500 text-sm mt-2 font-bold`}
+            className={`${ooohBaby.className} text-gray-950 text-sm mt-2 font-bold`}
           >
             What would you like to see in the vending machine?
           </p>
