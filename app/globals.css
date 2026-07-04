@@ -26,6 +26,6 @@ body {
 }
 
 .text-stroke {
-  -webkit-text-stroke: 50px var(--color-gray-950);
+  -webkit-text-stroke: 5px var(--color-gray-950);
   paint-order: stroke fill;
 }
