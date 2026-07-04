@@ -20,7 +20,7 @@ export default function Home() {
       <Nav />
       <div className="flex-1 flex flex-col items-center px-4 pt-8">
         <h1
-          className={`${molle.className} mt-10 text-5xl text-gray-50 mb-6 text-stroke`}
+          className={`${molle.className} mt-8 text-5xl text-gray-50 mb-8 text-stroke`}
         >
           Cafeteria
         </h1>
