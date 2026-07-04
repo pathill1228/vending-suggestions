@@ -5,7 +5,7 @@ import { Slant as Hamburger } from "hamburger-react";
 
 export default function Nav() {
   return (
-    <nav className="bg-red-950 p-4 text-orange-50 flex flex-row justify-between items-center h-80px">
+    <nav className="bg-red-950 p-4 text-gray-50 flex flex-row justify-between items-center">
       <Image
         src="/SwauLogo.png"
         alt="Swau Logo"
